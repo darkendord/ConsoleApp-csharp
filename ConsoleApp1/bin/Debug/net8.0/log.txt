@@ -1,0 +1,8 @@
+INSERT INTO TutorialAppSchema.Computer(
+            Motherboard,
+            HasWifi
+            HasLTE
+            ReleaseDate
+            Price
+            VideoCard
+          ) VALUES ('Z690','True','False','1/4/2024 2:56:08 PM','943.87','RTX 2060')
